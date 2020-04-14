@@ -102,5 +102,9 @@ http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hl
 http://qlive.fengshows.cn/live720p/PCC.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="香港",凤凰资讯台
 http://qlive.fengshows.cn/live720p/PIN.m3u8
+#EXTINF:-1 tvg-id="142" tvg-name="香港卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="香港",凤凰卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 tvg-id="142" tvg-name="澳亚卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E6%BE%B3%E4%BA%9A%E5%8D%AB%E8%A7%86.png" group-title="香港",澳亚卫视
+http://stream.mastvnet.com/MASTV/sd/live.m3u8
 
 
